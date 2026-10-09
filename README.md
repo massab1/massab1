@@ -1,4 +1,4 @@
-# Hi, I'm [Your name] 👋
+# Hi, I'm Massab Farooq 👋
 
 **I build web software for Pakistani institutions — hospitals, schools, shops and public offices — and run it in production.**
 
@@ -9,19 +9,6 @@ Four Django products, each live and used for real work, each built around how th
 ![PythonAnywhere](https://img.shields.io/badge/Hosted%20on-PythonAnywhere-1D9FD7)
 ![PWA](https://img.shields.io/badge/Installable-PWA-5A0FC8)
 ![Urdu](https://img.shields.io/badge/Urdu-RTL%20ready-0F766E)
-
----
-
-## 🚀 Products in production
-
-| | Product | For | Live |
-|---|---|---|---|
-| 🏥 | **[AI Hospital](https://github.com/massab1/aihospital)** | Hospitals and clinics | [aihospital.pythonanywhere.com](https://aihospital.pythonanywhere.com) |
-| 🏫 | **[MySchool Jhang](https://github.com/massab1/myschool-jhang)** | Schools | [massabfarooq.pythonanywhere.com](https://massabfarooq.pythonanywhere.com) |
-| 🤝 | **[Raabta CRM](https://github.com/massab1/raabta-crm)** | MPA / MNA offices, NGOs, government departments | [raabta.pythonanywhere.com](https://raabta.pythonanywhere.com) |
-| 🛒 | **[Tijarat RMS](https://github.com/massab1/tijarat-rms)** | Grocery, shoe and garment shops | [onesale.pythonanywhere.com](https://onesale.pythonanywhere.com) |
-
----
 
 ### 🏥 AI Hospital — hospital management from token to discharge
 
@@ -80,7 +67,7 @@ POS and stock for grocery, shoe and garment shops, on the counter PC and on the 
 - **Mobile first:** every product works on a phone and installs as an app
 - **Built for Pakistan:** Urdu, PKR, CNIC, NTN/STRN, WhatsApp, offline-tolerant
 - **Records you can trust:** ledgers that are never edited, audit trails, and role checks enforced on the server
-- **Hosted on PythonAnywhere**, ready for MySQL and PostgreSQL
+- **Hosted on aws**, ready for MySQL and PostgreSQL
 
 ## 📫 Contact
 
